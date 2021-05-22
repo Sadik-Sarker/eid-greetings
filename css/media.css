@@ -1,0 +1,12 @@
+@media (max-width:575.98px){
+    body{
+        min-height: 95vh;
+    }
+    section h1 {
+        font-size: 80px;
+    }
+    .mosque p {
+        left: 43%;
+        bottom: -2px;
+    }
+}
